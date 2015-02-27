@@ -1,6 +1,6 @@
 {
   "name": "binary-sorted-set",
-  "description": "",
+  "description": "sorted sets with binary search",
   "version": "0.0.0",
   "homepage": "https://github.com/dominictarr/binary-sorted-set",
   "repository": {
