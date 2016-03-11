@@ -32,6 +32,8 @@ module.exports = function (compare) {
     has: function (item) {
       return index(item) >= 0
     },
+    
+    indexOf: index,
 
     range: function (opts) {
       if(!opts) return set.slice()
